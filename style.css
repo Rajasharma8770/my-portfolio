@@ -111,6 +111,24 @@ body {
  
 }  
 
+.bi-youtube{
+  color: rgb(255, 0, 0);  
+  font-size: 24px;
+}
+
+.bi-bootstrap-fill{
+  font-size: 24px;
+  color: orange; 
+    
+}
+
+#interests{
+  margin-top: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  padding-left: 50px;
+}
+
 /* education  */
 
 #education-heading{
