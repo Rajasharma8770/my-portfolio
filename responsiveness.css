@@ -133,6 +133,7 @@
       padding-right: 15px;
       margin-left: 10px;
       margin-top: 4px;
+      border-radius: 50px;
     }
   
     #education-heading {
@@ -266,6 +267,7 @@
       padding-right: 5px;
       margin-left: 5px;
       margin-top: 0px;
+      border-radius: 50px;
     }
   
     #image1 {
@@ -426,6 +428,7 @@
       margin-left: 15px;
       margin-top: 1px;
       margin-bottom: 10px;
+      border-radius: 50px;
     }
   
     #resume a {
@@ -593,6 +596,7 @@
       margin-left: 15px;
       margin-top: 1px;
       margin-bottom: 10px;
+      border-radius: 50px;
     }
   
     #resume a {
