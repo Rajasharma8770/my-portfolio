@@ -187,6 +187,12 @@
     #navbarSupportedContent {
       padding: 0px 0px 0px 9px;
     }
+      .nav-item a {
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: -176px;
+  padding-right: 10px;
+}
   
     /* .nav-item {
           padding-left: 20px;
